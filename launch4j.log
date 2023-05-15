@@ -78,3 +78,23 @@ Launcher:	C:\Program Files\Microsoft\jdk-17.0.7.7-hotspot\bin\javaw.exe
 Launcher args:	-jar "D:\Documents\School\Future Project\Repository\Future-Project-2023\Distress In The Void.exe"
 Args length:	97/32768 chars
 Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\Documents\School\Future Project\Repository\Future-Project-2023\Distress In The Void.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Documents\School\Future Project\Repository\Future-Project-2023\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Microsoft\jdk-17.0.7.7-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\maxcs\AppData\Local\Microsoft\WindowsApps;;C:\Users\maxcs\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Microsoft\jdk-17.0.7.7-hotspot\bin
+JRE paths:	;C:\Program Files\Microsoft\jdk-17.0.7.7-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\maxcs\AppData\Local\Microsoft\WindowsApps;;C:\Users\maxcs\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Microsoft\jdk-17.0.7.7-hotspot\bin
+Check launcher:	C:\Program Files\Microsoft\jdk-17.0.7.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.017.000_007 / 64-Bit (OK)
+Launcher:	C:\Program Files\Microsoft\jdk-17.0.7.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "D:\Documents\School\Future Project\Repository\Future-Project-2023\Distress In The Void.exe"
+Args length:	97/32768 chars
+Exit code:	0

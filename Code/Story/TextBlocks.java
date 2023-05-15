@@ -133,7 +133,7 @@ public final class TextBlocks {
         
     public static final String ACT_THREE_HELM_FIGHT_FIRST_AID = "It doesn't look good. A thick black ichor seeps from the holes in your arm. You try to stand " +
         "up, but your strength leaves. You need to take a risk. Pulling a plasma scalpel from your first aid supplies and gritting your teeth, you find " +
-        "resolve to do what needs to be done to save yourself. You cauterize each of wounds on your arm, burning away the black ichor that dripped from them. ";
+        "resolve to do what needs to be done to save yourself. You cauterize each of the wounds on your arm, burning away the black ichor that dripped from them. ";
 
     public static final String ACT_THREE_BLACK_BOX_ENDING = "You make it to the freighter's central console. Nearby you find the black box and download the " +
         "data from it. Having seen enough of this abyssal ship, you walk down the stairs, back to the main hallway, and enter into your ship. Once you get " + 

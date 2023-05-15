@@ -157,7 +157,7 @@ public class StoryHandeler {
     }
 
     public void actThreeHelmRepairsFight() throws InterruptedException {
-        textHandeler.lineAppend(TextBlocks.ACT_THREE_HELM_FIGHT_REPAIRS, Constants.SLOW_APPEND_WAIT_TIME);
+        textHandeler.lineAppend(TextBlocks.ACT_THREE_HELM_FIGHT_REPAIRS, Constants.MEDIUM_APPEND_WAIT_TIME);
         visuals.getUpperButton().setText("End");
         visuals.getLowerButton().setText("End");
     }
