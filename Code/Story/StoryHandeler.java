@@ -133,7 +133,7 @@ public class StoryHandeler {
         textHandeler.setText("");
         visuals.getUpperButton().setText("Find the Black Box");
         visuals.getLowerButton().setText("Find the Black Box");
-        if(ChoiceHandeler.ACT_TWO_CAMERAS) {
+        if(ChoiceHandeler.ACT_TWO_CAMERAS && !ChoiceHandeler.ACT_ONE_PACKED_ITEM_CHOICE) {
             visuals.getUpperButton().setText("Search for the Survivors");
             textHandeler.append(TextBlocks.ACT_THREE_HELM_SCENE_ONE_ENTRY_ONE_CAMERA, Constants.FAST_APPEND_WAIT_TIME);
         } else {
