@@ -111,7 +111,7 @@ public class GameContainer {
     public static void actThreeHelmSceneOne() throws InterruptedException {
         storyHandeler.actThreeHelmSceneOneEntryOne();
         waitForButton();
-        if(ChoiceHandeler.ACT_TWO_CAMERAS && playerChoice) {
+        if(ChoiceHandeler.ACT_TWO_CAMERAS && playerChoice && !ChoiceHandeler.ACT_ONE_PACKED_ITEM_CHOICE) {
             storyHandeler.survivorPartOne();
             waitForButton();
             storyHandeler.survivorPartTwo();
